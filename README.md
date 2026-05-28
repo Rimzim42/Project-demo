@@ -1,4 +1,4 @@
 # Project-demo
 My first repository!
 <br>
-Author - Rimzim Fulke
+Author - Rimzim Fulke (ME)
